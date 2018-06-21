@@ -1,2 +1,2 @@
 # 机器学实战
-## KNN
+## [KNN](https://github.com/Ruinhuang/MachineLearningInAction/tree/master/KNN)
